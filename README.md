@@ -24,7 +24,7 @@
 
 4. **Banco de Dados**
     - Utilize um banco de dados de sua escolha.
-    - Se escolher por um banco de dados relacional, implemente "migrations" inicializar o banco de dados.
+    - Se escolher por um banco de dados relacional, implemente "migrations" para inicializar o banco de dados.
 
 #### Critérios de Avaliação:
 
