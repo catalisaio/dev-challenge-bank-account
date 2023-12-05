@@ -28,6 +28,6 @@
 
 #### Critérios de Avaliação:
 
-- Qualidade do código (organização, padrões de projeto).
-- Cobertura e completude dos testes.
-- Documentação do projeto.
+- Qualidade do código.
+- Testes unitários.
+- Documentação de como executar o projeto.
